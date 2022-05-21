@@ -14,6 +14,7 @@ import java.util.UUID;
 @AllArgsConstructor
 @Builder
 public class BeerDTO {
+
     private UUID id;
     private Integer version;
 
